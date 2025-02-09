@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My name is Santhosh<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I like learning</h2>
+<h2 align="left">Currently I am busy and projects will be postponed till 15th Febuaray 2025</h2>
 
 ###
 
